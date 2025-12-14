@@ -1,0 +1,14 @@
+# Ignore Python temporary files
+__pycache__/
+*.pyc
+
+# Ignore the virtual environment (very important!)
+venv/
+.env
+
+# Ignore database (optional, but recommended to keep data local)
+*.db
+*.sqlite3
+
+# Ignore system files
+.DS_Store
