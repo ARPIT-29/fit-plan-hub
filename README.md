@@ -26,3 +26,22 @@ Built on a **RESTful architecture**, the application uses **Python (Flask)** for
 ```bash
 git clone [https://github.com/ARPIT-29/fit-plan-hub.git](https://github.com/ARPIT-29/fit-plan-hub.git)
 cd fit-plan-hub
+### 📖 How to Use the App (User Guide)
+
+**1. Create an Account**
+* Open the app and click **"Create an Account"**.
+* **For Trainers:** Select **"Trainer"** from the dropdown menu. This grants you special permissions to publish content.
+* **For Regular Users:** Select **"Regular User"** to browse and buy plans.
+
+**2. Trainer Workflow**
+* Log in with your Trainer account.
+* On the feed page, click the yellow **"★ Dashboard"** button at the top.
+* Fill out the form (Title, Description, Price, Duration) and click **"Publish Plan"**.
+* Your plan is now live in the database!
+
+**3. User Workflow**
+* Log in with your User account.
+* Initially, your feed will be empty. Click **"Find Trainers"** to browse the directory.
+* Click **"Follow"** on any trainer you like.
+* Switch back to **"My Feed"** to see plans *only* from the trainers you follow.
+* Click **"Buy"** to simulate purchasing a plan (this unlocks the full description).
