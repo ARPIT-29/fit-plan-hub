@@ -24,5 +24,5 @@ Built on a **RESTful architecture**, the application uses **Python (Flask)** for
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/fit-plan-hub.git](https://github.com/YOUR_USERNAME/fit-plan-hub.git)
+git clone [https://github.com/ARPIT-29/fit-plan-hub.git](https://github.com/ARPIT-29/fit-plan-hub.git)
 cd fit-plan-hub
